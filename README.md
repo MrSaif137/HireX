@@ -43,8 +43,6 @@ Demo screenshot:
 
 Light mode:
 
-![lighmode](./img/Screenshot_20250311_134256.png)
+![lighmode](https://github.com/user-attachments/assets/36c59046-2fa4-4f1d-a3d1-3ea6d945d4fd)
 
 dark mode:
-
-![darkmode](./img/darkScreenshot_20250311_134404.png)
