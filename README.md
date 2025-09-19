@@ -35,9 +35,6 @@ npm run dev
 
 ```
 
-**Please Note:**
-
-> I have not implemented JWT because, its outdated and its creating me too much bugs
 
 Demo screenshot:
 
@@ -45,4 +42,3 @@ Light mode:
 
 ![lighmode](https://github.com/user-attachments/assets/36c59046-2fa4-4f1d-a3d1-3ea6d945d4fd)
 
-dark mode:
